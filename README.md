@@ -1,5 +1,5 @@
 # [MineCraftLauncher]
-MineCraftLauncher是一款运行于window上的我的世界的启动器，用Qt5.3编写，他能启动本地的我的世界的客户端.
+MineCraftLauncher是一款运行于window上的我的世界的启动器，用Qt5.3编写，他能启动本地的我的世界客户端.
 
 ## 功能列表
 
